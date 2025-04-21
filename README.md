@@ -1,1 +1,1 @@
-# SPL
+•	Warehouse Management System: Designed an object-oriented system in C++ to manage a food warehouse, handling orders, volunteers, and inventory. Applied standard data structures and the Rule of 5 for efficient memory management. Technologies: C++, OOP, Data Structures, Memory Management.
